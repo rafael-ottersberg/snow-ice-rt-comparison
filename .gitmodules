@@ -1,0 +1,12 @@
+[submodule "external/tartes"]
+	path = external/tartes
+	url = https://github.com/ghislainp/tartes.git
+[submodule "external/pysnicar"]
+	path = external/pysnicar
+	url = git@github.com:rafael-ottersberg/pysnicar.git
+[submodule "external/rt-malinka"]
+	path = external/rt-malinka
+	url = git@github.com:rafael-ottersberg/rt-malinka.git
+[submodule "external/grr-microstructures"]
+	path = external/grr-microstructures
+	url = git@github.com:rafael-ottersberg/grr-microstructures.git

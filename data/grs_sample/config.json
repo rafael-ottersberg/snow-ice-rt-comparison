@@ -1,0 +1,34 @@
+{
+  "config": {
+    "grs": {
+      "l_max": 7,
+      "l_min": 2,
+      "n_shapes": 31,
+      "power_law": 3.0,
+      "rel_std": 0.1,
+      "rows_per_octant": 40,
+      "seed": 1
+    },
+    "packing": {
+      "n_particles": 10000,
+      "randomize_steps": 10000,
+      "seed": 42,
+      "volume_fractions": [
+        0.05,
+        0.1,
+        0.2
+      ]
+    },
+    "sizes": {
+      "mean_um": 100.0,
+      "n_bins": 31,
+      "sigma_multiplier": 2.5,
+      "std_um": 20.0
+    }
+  },
+  "software": {
+    "icegrain": "unknown",
+    "numpy": "2.2.6",
+    "python": "3.12.10"
+  }
+}

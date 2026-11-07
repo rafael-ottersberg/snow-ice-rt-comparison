@@ -1,0 +1,22 @@
+name: snow-rt
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - pandas
+  - matplotlib
+  - trimesh
+  - gsd
+  - octave
+  - octave-netcdf
+  - netcdf4
+  - scikit-image
+  - pyvista
+  - pip
+  - pip:
+      - photontracer==1.1.0
+      - tartes
+      - miepython
+      - PythonicDISORT
